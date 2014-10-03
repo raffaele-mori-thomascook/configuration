@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+		<link rel="stylesheet" href="./css/main.css">
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+		<script type="text/javascript" src="./js/main.js"></script>
+	</head>
+	<body ng-app="MainApp">
+		<div ng-controller="MainController" class="col-xs-12">
+			<label for="">Language: </label>
+			<select ng-model="model.selectedLanguage">
+				<option value="{{language}}" ng-repeat="language in model.languageList">
+					{{language}}
+				</option>
+			</select>
+		</div>
+		<div ng-controller="LanguageController" class="col-xs-12">
+			<div>
+				<label for="filterInput">Filtering for key: </label>
+				<input type="text" id="filterInput" ng-model="model.filterKey" />
+				<button ng-click="addKey()">+</button>
+			</div>
+			<form ng-show="addItemFormVisible">
+				<div>
+					<label for="newKeyInput">Key</label>
+					<input id="newKeyInput" type="text" ng-model="newItemKey" />
+				</div>
+				<div>
+					<label for="newValueInput">Value</label>
+					<input id="newValueInput" type="text" ng-model="newItemValue"/>
+				</div>
+				<div>
+					<button ng-disabled="!newItemKey" ng-click="addNewKey()">OK</button>
+					<button ng-click="hideNewItemForm()">CANCELL</button>
+				</div>
+			</form>
+			<ul class="list-unstyled">
+				<li class="clearfix">
+					<div class="col-xs-2 col-sm-1"></div>
+					<div class="col-xs-4">KEY</div>
+					<div class="col-xs-6 col-sm-7">VALUE</div>
+				</li>
+				<li ng-repeat="item in dictionary | keyFilter" class="clearfix itemLine">
+					<div class="col-xs-2 col-sm-1">
+						<span class="deleteItemButton btn btn-default" ng-click="deleteItem(item.key)">X</span>
+						<span class="modifyItemButton btn btn-default" ng-click="modifyItem(item.key, item.value)">E</span>
+					</div>
+					<div class="col-xs-4">
+						{{item.key}}
+					</div>
+					<div class="col-xs-6 col-sm-7">{{item.value}}</div>
+				</li>
+			</ul>
+		</div>
+	</body>
+</html>

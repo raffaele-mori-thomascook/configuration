@@ -1,0 +1,9 @@
+.itemLine {
+	padding: 8px 0;
+}
+.itemLine:nth-child(even) {
+	background-color: lightgray;
+}
+.itemLine:hover{
+	background-color: lightcyan;
+}

@@ -1,0 +1,1068 @@
+{
+  "apiDateFormat": "YYYYMMDD",
+  "uiDateFormat": "DD-MM-YYYY",
+  "GBP": "&#163;",
+  "USD": "&#36;",
+  "EUR": "&#128;",
+  "common": {
+    "brand": "Thomas Cook",
+    "home": "Home",
+    "undo": "Ongedaan maken",
+    "on": "op",
+    "close": "Sluiten",
+    "select": "Selecteren",
+    "previous": "Vorige",
+    "next": "Volgende",
+    "room": "Kamer",
+    "nights": "Nachten",
+    "hide": "Verbergen",
+    "show": "Tonen",
+    "with": "met",
+    "secure": "Secure",
+    "allResults": "alle resultaten",
+    "providedBy": "Aangeboden door",
+    "providedByFull": "Deze vakantie wordt aangeboden door",
+    "error": "Er is een probleem opgetreden",
+    "notFound": "Het spijt ons, maar de pagina die u hebt aangevraagd, is niet gevonden. Controleer de aanvraag en probeer het opnieuw.",
+    "generic_error": "Het spijt ons, maar we kunnen uw aanvraag niet verwerken vanwege een systeemfout. Wacht even en probeer het opnieuw. Als u problemen blijft houden, belt u ",
+    "title": "Aanhef",
+    "numbers": [
+      "eerste",
+      "tweede",
+      "derde",
+      "vierde",
+      "vijfde",
+      "zesde",
+      "zevende",
+      "achtste",
+      "negende"
+    ],
+    "date": {
+      "day": "Dag",
+      "month": "Maand",
+      "year": "Jaar"
+    },
+    "titles": [
+      {
+        "name": "Meneer",
+        "value": "Meneer"
+      },
+      {
+        "name": "Mevrouw",
+        "value": "Mevrouw"
+      },
+      {
+        "name": "Mevrouw",
+        "value": "Mevrouw"
+      },
+      {
+        "name": "Mevrouw",
+        "value": "Mevrouw"
+      }
+    ],
+    "childTitles": [
+      {
+        "name": "Meneer",
+        "value": "Meneer"
+      },
+      {
+        "name": "Mevrouw",
+        "value": "Mevrouw"
+      }
+    ],
+    "months": [
+      {
+        "name": "Januari",
+        "value": 1
+      },
+      {
+        "name": "Februari",
+        "value": 2
+      },
+      {
+        "name": "Maart",
+        "value": 3
+      },
+      {
+        "name": "April",
+        "value": 4
+      },
+      {
+        "name": "Mei",
+        "value": 5
+      },
+      {
+        "name": "Juni",
+        "value": 6
+      },
+      {
+        "name": "Juli",
+        "value": 7
+      },
+      {
+        "name": "Augustus",
+        "value": 8
+      },
+      {
+        "name": "September",
+        "value": 9
+      },
+      {
+        "name": "Oktober",
+        "value": 10
+      },
+      {
+        "name": "November",
+        "value": 11
+      },
+      {
+        "name": "December",
+        "value": 12
+      }
+    ],
+    "footer": {
+      "acceptCards": "We accept the following cards",
+      "tripAdvisor": "We have partnered with TripAdvisor, the world's largest travel community, to bring you even more traveler reviews."
+    }
+  },
+  "search": {
+    "updatingYourResults": "Uw resultaten worden bijgewerkt",
+    "holidaysFound": "vakanties gevonden",
+    "holidays": "holidays",
+    "found": "found",
+    "seoHolidaysFound": "{0} holidays found",
+    "whatsIncludedFooter": "There is no fee if you pay by debit card. A 2% fee (up to a maximum of £95) will be charged if you pay by credit card",
+    "bar": {
+      "anyDestination": "Alle bestemmingen",
+      "anyAirport": "Alle luchthavens",
+      "whereTo": "Waarheen ?",
+      "fromWhere": "Vanaf waar ?",
+      "whenAndHowLong": "Wanneer en hoe lang ?",
+      "with": "Met wie ?",
+      "when": "Wanneer ?",
+      "iAmFlexible": "Ik ben flexibel +/- 3 dagen",
+      "howLongFor": "Hoe lang ?",
+      "apply": "Toepassen",
+      "search": "Zoeken",
+      "edit": "Bewerken",
+      "addAnotherRoom": "Kamer toevoegen",
+      "removeARoom": "Kamer verwijderen"
+    },
+    "filters": {
+      "basicFilters": "Basis filters",
+      "sortByRelevance": "Sorteren op relevantie",
+      "list": "Lijst",
+      "map": "Kaart",
+      "viewOnMap": "Toon op kaart",
+      "filter": "Filters",
+      "refineYourSearch": "Zoekopdracht verfijnen"
+    },
+    "errors": {
+      "pleaseSpecifyChildAge": "Vul de leeftijd van het kind in",
+      "moreThan9Guests": "Boekt u voor meer dan 9 mensen ?",
+      "callUs": "Bel <NL customer number>  om met een van onze adviseurs te spreken. Wij helpen u graag met uw vakantiewensen.",
+      "moreInfantsThanAdults": "Meer kinderen dan volwassenen ?",
+      "contactUs": "Als u problemen blijft houden, bel dan naar: ",
+      "suggestion": {
+        "airport": [
+          "Sorry, we kunnen de door u gekozen luchthaven niet vinden",
+          "Kies een andere luchthaven of controleer de spelling van uw selectie."
+        ],
+        "destination": [
+          "Sorry, we kunnen de door u gekozen bestemming niet vinden",
+          "Kies een andere bestemming of controleer de spelling van uw selectie."
+        ],
+        "airportTitle": "Sorry, we kunnen de door u gekozen luchthaven niet vinden",
+        "airportMessage": "Kies een andere luchthaven of controleer de spelling van uw selectie.",
+        "destinationTitle": "Sorry, we kunnen de door u gekozen bestemming niet vinden",
+        "destinationMessage": "Kies een andere bestemming of controleer de spelling van uw selectie."
+      },
+      "results": {
+        "500": [
+          "Het spijt ons, we hebben geen reactie van ons systeem ontvangen. Probeer uw vakantie over een paar minuten opnieuw te zoeken.",
+          "Als u problemen blijft houden, bel dan naar: "
+        ],
+        "1008": [
+          "1008",
+          "Sorry, er zijn momenteel geen vakanties beschikbaar die voldoen aan uw zoekcriteria. Wijzig uw vertrekdatum en/of vakantieduur of wijzig het aantal sterren en/of de verzorging.",
+          "Uw vakantie is mogelijk niet beschikbaar op de data waarop u zoekt. Toon meer data om onze populaire vakantiebestemmingen te bekijken.",
+          "Voor flexibele vertrekluchthavens en een flexibele vluchtduur kunt ook onze pagina Vlucht + Hotel bezoeken.",
+          "Als u problemen blijft houden, [Foutcode: 1008]"
+        ]
+      }
+    },
+    "flightSeats": {
+      "hurryNote": "{0}Snel{1}&nbsp;nog maar {2} stoel(en) vrij!",
+      "availability": "Nog maar {0} stoel(en) vrij!",
+      "lastAvailability": "De laatste controle op beschikbare vluchtstoelen was om 09:00 u op {0}",
+      "notice": "<h5>Opmerking</h5><p>U kunt mogelijk andere stoelen kiezen op de accommodatiepagina, maar de prijs kan hoger zijn. We bieden soms een aantal stoelen met korting aan op een latere datum.</p><p>Hier"
+    },
+    "rooms": {
+      "hurryNote": "ziet u hoeveel stoelen op dit moment beschikbaar zijn voor deze vakantie.</p>",
+      "availability": "Nog maar {0} kamer(s) vrij!",
+      "lastAvailability": "De laatste controle op beschikbare kamers was om 09:00 u op {0}",
+      "notice": "<h5>Opmerking</h5><p>U kunt mogelijk andere kamertypes kiezen op de accommodatiepagina, maar de prijs kan hoger zijn. We voegen soms meer kamers van hetzelfde type met korting toe op een latere"
+    }
+  },
+  "accom": {
+    "bookNow": "Boek nu",
+    "rooms": "Kamers",
+    "flight": "Vlucht",
+    "facilities": "Faciliteiten",
+    "reviews": "Beoordelingen",
+    "askNAnswers": "Vragen en antwoorden",
+    "hotelHighlights": "Hotel-highlights",
+    "video": "Video",
+    "benefits": "Voordelen",
+    "yourHotelRoom": "Uw hotelkamer",
+    "boardBasis": "Verzorging",
+    "only": "Nog maar",
+    "roomsLeft": "kamers over!",
+    "maxAdults": "Max. volwassenen",
+    "select": "Selecteren",
+    "yourCurrentRoom": "Uw huidige hotelkamer",
+    "yourHotel": "Uw hotel",
+    "roomInfo": "Kamerinfo",
+    "noSupportForVideo": "Uw browser ondersteunt de videocode niet.",
+    "yourFlight": "Uw vlucht",
+    "duration": "Duur",
+    "priceForWholeParty": "De getoonde prijzen zijn het totaal voor het hele reisgezelschap",
+    "flightDetails": "Vluchtgegevens",
+    "totalPriceWas": "Totale prijs was",
+    "SavingToday": "U bespaart vandaag",
+    "totalPriceFrom": "Totale prijs van",
+    "totalPrice": "Totale prijs",
+    "cardFeeApplies": "",
+    "noDebitCardCharges": "Geen kosten voor betaalpas",
+    "balcony": "balkon",
+    "priceCorrectAsOf": "Prijs geldt per",
+    "selectAndClose": "Selecteren en sluiten",
+    "close": "Sluiten",
+    "noDebitCharges": "Geen kosten voor betaalpas",
+    "2PercentFee": "",
+    "priceCorrect": "Prijs geldt per ",
+    "9am": "09:00 u op",
+    "currentChoice": "Huidige selectie",
+    "inboundWith": "Terugvlucht met",
+    "outboundWith": "Heenvlucht met",
+    "selected": "Geselecteerd",
+    "cheapest": "Goedkoopste",
+    "totalPrices": "De getoonde prijzen zijn het totaal voor het hele reisgezelschap",
+    "fromTripAdvisor": "",
+    "fromOurCustomers": "Van onze klanten",
+    "noDataForDatesInPriceList": "Fout: onze gegevens bevatten geen overeenkomende data in de prijslijst",
+    "reviewsTitle": "Beoordelingen van Thomas Cook",
+    "callUs": "Call Us"
+  },
+  "checkout": {
+    "errors": {
+      "default": "Er is iets fout gegaan. Probeer het opnieuw. (Foutcode: {0})"
+    },
+    "progressBar": {
+      "step1Long": "Uw vakantie",
+      "step2Long": "Vakantiebenodigdheden",
+      "step3Long": "Passagiersgegevens",
+      "step4Long": "Betaling",
+      "step5Long": "Gereed",
+      "step1Short": "Vakantie",
+      "step2Short": "Benodigdheden",
+      "step3Short": "Passagiers",
+      "step4Short": "Betaling",
+      "step5Short": "Gereed"
+    },
+    "payment": {
+      "checkDetailsAndPay": "Controleer uw gegevens en betaal",
+      "paymentQuestion": "Hoe wilt u betalen?",
+      "oneLastStep": "Nog één stap, u bent bijna klaar",
+      "holidayTotal": "Totaalprijs",
+      "deposit": "Aanbetaling",
+      "cardFee": "Creditcardkosten",
+      "secureToday": "Reserveer vandaag voor",
+      "remDeposit": "Nog te voldoen",
+      "remBalance": "Nog te voldoen",
+      "totalBalance": "Totaal nog te voldoen",
+      "flightAccomNotice": "Lees de laatste&nbsp;<a class='link' id='errataFlightAccomLink' data-toggle='modal' data-target='#errataFlightAccomModal'>vlucht/accommodatie-updates</a>&nbsp;voor deze vakantie voordat u doorgaat",
+      "bookCondition": {
+        "line1": "Ik accepteer dat het mijn verantwoordelijk is om de",
+        "link": "boekingsvoorwaarden en vakantiegegevens",
+        "line2": "van de reisorganisatie te lezen en te begrijpen."
+      },
+      "ourGuide": {
+        "line1": "Alle leden van uw reisgezelschap moeten voldoen aan de toelatingseisen voor het land waarnaar u reist. Bezoek de website of raadpleeg",
+        "link": "onze gids",
+        "line2": "voor informatie over paspoorten/visa/gezondheid."
+      },
+      "toPaytoday": "Vandaag te betalen",
+      "confirmPay": "Bevestig en betaal",
+      "dueMessage": "(te voldoen voor {0})",
+      "validationErrors": {
+        "tAndC": "U moet het vakje aankruisen om de Algemene voorwaarden te accepteren"
+      },
+      "acceptedCards": "We accepteren deze betaalkaarten:",
+      "customerAssurance": "U bent in goede handen",
+      "creditCardFeeMessage": "There is no fee if you pay by debit card. A 2% fee (up to a maximum of &pound;95) will be charged if you pay by credit card.",
+      "promocode": "Kortingscode",
+      "cardInfo": "Enter your card information",
+      "mandatoryInfo": "All fields marked <span class=\"glyphicon glyphicon-asterisk\"></span> must be completed",
+      "cardtype": "Card type",
+      "selectCardType": "Select a card type",
+      "cardNumber": "Card number",
+      "cardHoldersName": "Name on card",
+      "expiryDate": "Expiration date",
+      "securityCode": "Card security code",
+      "error": {
+        "cardtype": "The number you've entered doesn't match your chosen card type. Please try again or choose another card type.",
+        "cardNumber": "The number you've entered is invalid. Please check and try again.",
+        "cardNumberIncomplete": "The number you've entered is incomplete or invalid. Please check and try again.",
+        "expiryDate": "The expiry date you've selected is invalid. Please check and try again.",
+        "expiryMonth": "The expiry month is empty, please review and amend",
+        "expiryYear": "The expiry year is empty, please review and amend",
+        "cardHoldersName": "The name on card is empty or invalid, please review and amend",
+        "securityCode": "The Card Security Code you've entered is invalid. Please check and try again",
+        "securityCodeIncomplete": "The security number is incomplete or invalid, please review and amend"
+      },
+      "room": "Kamer",
+      "contactDetails": {
+        "title": "Contactgegevens",
+        "name": "Naam",
+        "email": "E-mailadres",
+        "phone": "Telefoonnummer",
+        "address": "Adres"
+      }
+    },
+    "processPayment": {
+      "header": "U bent bijna klaar",
+      "paymentInstructions": "Your bank is carrying out additional authentication checks to secure your payment. They may request additional information to ensure that the payment is valid and being requested by you, the cardholder. Please do not close your browser or click back whilst this takes place. You may wish to contact your bank if you have any queries."
+    },
+    "paymentType": {
+      "lowDepositTitle": "Kleine aanbetaling",
+      "standardDepositTitle": "Standaard aanbetaling",
+      "payFullTitle": "Volledig betalen",
+      "lowDepositBlurb": "Betaal <strong>{0}</strong>  nu als aanbetaling. De resterende aanbetaling van <strong>{1}</strong> moet u voldoen voor {2}. Het resterende bedrag van <strong>{3}</strong> moet u voldoen voor {4}. Klik <a href='http://www.thomascook.com/pricing-terms-conditions' target='_blank'>hier</a> voor de voorwaarden voor een kleine aanbetaling.",
+      "lowDepositBlurb1": "Betaal <strong>{0}</strong>  nu als aanbetaling. De resterende aanbetaling van <strong>{1}</strong> moet u voldoen voor {2}. Het resterende bedrag van <strong>{3}</strong> moet u voldoen voor {4}.",
+      "lowDepositBlurb2": "Klik <a href='http://www.thomascook.com/pricing-terms-conditions' target='_blank'>hier</a> voor de voorwaarden voor een kleine aanbetaling.",
+      "standardDepositBlurb": "Betaal <strong>{0}</strong> nu als aanbetaling. Het resterende bedrag van <strong>{1}</strong> moet u voldoen voor {2}.",
+      "payFullBlurb": "Betaal het volledige bedrag nu en tel onbezorgd af tot aan uw vakantie.",
+      "cardFee": "Please note a {0}% fee (maximum charge £95) will be charged for this method of payment."
+    },
+    "pax": {
+      "paxDetails": "Passagiersgegevens"
+    }
+  },
+  "basket": {
+    "errors": {
+      "ETIMEDOUT": "Er is een fout opgetreden bij de verbinding met het boekingssysteem. Probeer het opnieuw.",
+      "ECONNREFUSED": "Er is een fout opgetreden bij de verbinding met het boekingssysteem. Probeer het later opnieuw.",
+      "TOSCA_AVAIL_RS_ERROR": "Deze vakantie is uitverkocht. Probeer een andere vakantie.",
+      "COST_RS_ERROR": "Er is een fout opgetreden bij het ophalen van de huidige prijs van deze vakantie. Probeer het later opnieuw.",
+      "RECOST_RS_ERROR": "Er is een fout opgetreden bij het ophalen van de huidige prijs van deze vakantie. Probeer het later opnieuw.",
+      "PAX_RS_ERROR": "Er is een fout opgetreden bij de verwerking van deze boeking. Controleer de ingevulde gegevens en dien uw aanvraag opnieuw in of probeer het later opnieuw.",
+      "ERROR_COST_RS": "Er is een fout opgetreden bij het ophalen van de huidige prijs van deze vakantie. Probeer het later opnieuw.",
+      "BOOK_HOLD_RS_ERROR": "Er is een fout opgetreden bij de verwerking van deze boeking. Probeer het later opnieuw.",
+      "BOOK_HOLD_RS_TOSCA_ERROR": "Er is een fout opgetreden bij de verwerking van deze boeking. Probeer het later opnieuw.",
+      "BOOK_HOLD_OR_COMMIT_RS_EXCEPTION_ERROR": "Er is een fout opgetreden bij de verwerking van deze boeking. Probeer het later opnieuw.",
+      "BOOK_COMMIT_RS_ERROR": "Er is een fout opgetreden bij de verwerking van deze boeking. Probeer het later opnieuw.",
+      "BOOK_COMMIT_RS_TOSCA_ERROR": "Er is een fout opgetreden bij de verwerking van deze boeking. Probeer het later opnieuw.",
+      "PH_CONTENT_RS_ERROR": "Er is een fout opgetreden bij de verwerking van deze boeking. Probeer het later opnieuw.",
+      "PH_SEARCH_RS_ERROR": "Er is een fout opgetreden bij de verwerking van deze boeking. Probeer het later opnieuw.",
+      "BOOK_COMMIT_RS_WEBRIO_ERROR": "Er is een fout opgetreden bij de verwerking van deze boeking. Probeer het later opnieuw.",
+      "BASKET_RS_ERROR": "Er is een fout opgetreden bij de verwerking van deze boeking. Probeer het later opnieuw.",
+      "TOSCA_EXTRA_RS_ERROR": "Er is een fout opgetreden bij de verwerking van deze boeking. Probeer het later opnieuw.",
+      "TOSCA_COST_RS_ERROR": "Er is een fout opgetreden bij het ophalen van de huidige prijs van deze vakantie. Probeer het later opnieuw.",
+      "MULTI_RECOST_RS_ERROR": "Er is een fout opgetreden bij het ophalen van de huidige prijs van deze vakantie. Probeer het later opnieuw.",
+      "DATACASH_RS_ERROR": "Er is een fout opgetreden bij de verwerking van de betaling. Probeer het later opnieuw.",
+      "DATACASH_COMMIT_RS_ERROR": "Er is een fout opgetreden bij de verwerking van de betaling. Probeer het later opnieuw.",
+      "DATACASH_CANCEL_RS_ERROR": "Er is een fout opgetreden bij de verwerking van de betaling. Probeer het later opnieuw.",
+      "BOOK_COMMIT_RS_NURVIS_ERROR": "Er is een fout opgetreden bij de verwerking van deze boeking. Probeer het later opnieuw.",
+      "not_found": "Het spijt ons, maar uw sessie is verlopen. Begin opnieuw.",
+      "generic": "Er is een fout opgetreden bij de verbinding met het boekingssysteem. Probeer het opnieuw."
+    },
+    "warnings": {
+      "20011": {
+        "title": "Why has the price of my holiday increased?",
+        "message": "We have made a live price check and the cost of your holiday has now increased. This may be due to popularity"
+      },
+      "20012": {
+        "title": "Great news - your price has gone down!",
+        "message": "Your holiday price is now cheaper than it was earlier today. Book online today to ensure you get this great deal"
+      },
+      "childPromotion": {
+        "title": "Pricing Information",
+        "message": "One or more of your children has been priced as an adult. This is either because of the maximum child ages for the hotel or the minimum adult occupancy for your room type"
+      }
+    }
+  },
+  "login": "Aanmelden",
+  "signup": "Registreren",
+  "liveChat": "Live chat",
+  "callUs": "Call us",
+  "edit": "Bewerken",
+  "complex": "Vervang {0} dit in deze tekenreeks, en dit ook: {1}",
+  "pax": {
+    "back": "Terug naar vakantiebenodigdheden",
+    "title": "Wie gaan er op reis?",
+    "continue": "Verder",
+    "required": "Verplicht veld",
+    "findAddress": "Zoek uw adres",
+    "manualAddress": "Of vul uw adres handmatig in",
+    "selectAddress": "Straat",
+    "selectAddressDefault": "Selecteer adres",
+    "dobLabel": "Geboortedatum",
+    "otherPaxSection": "Vul overige passagiersgegevens in",
+    "otherPax": "Overige passagiersgegevens",
+    "roomDetails": "Kamergegevens",
+    "prompt": "Vul de gegevens in van de {0} {1} die in deze kamer verblijft",
+    "infantAge": "jonger dan 2 jaar op de terugreis",
+    "childAge": "{0} jaar op de terugreis",
+    "checkLeadPaxMsg": "Controleer alle gegevens van de hoofdpassagier voordat u doorgaat.",
+    "lead": {
+      "details": "Gegevens van hoofdpassagier",
+      "title1": "Vul de gegevens van de hoofdpassagier in. De hoofdpassagier is verantwoordelijk voor uw volledige vakantieboeking en eventuele wijzigingen. De hoofdpassagier ontvangt ook alle reisdocumenten en updates per e-mail. ",
+      "title2": "U moet alle velden invullen die zijn gemarkeerd met <span class='glyphicon glyphicon-asterisk'></span>.",
+      "marketing": "Ja, ik wil dit e-mailadres gebruiken om aanbiedingen en e-mails van Thomas Cook-bedrijven te ontvangen. Uw persoonlijke gegevens worden niet doorgegeven aan derde partijen, behalve als dit nodig is om uw boeking of informatieverzoek te verwerken. Meer informatie vindt u in ons",
+      "policy": "Privacybeleid.",
+      "existing": "Dit is uw hoofdpassagier",
+      "check": "Verplaats de hoofdpassagier naar deze kamer",
+      "room": "Kamer"
+    },
+    "dob": {
+      "day": "Dag",
+      "month": "Maand",
+      "year": "Jaar"
+    },
+    "error": {
+      "required": "De ingevulde {0} is ongeldig of onvolledig. Corrigeer dit.",
+      "age": "De hoofdpassagier moet minimaal 18 jaar zijn.",
+      "generic": "Er is een probleem opgetreden bij het indienen van het formulier. Controleer de ingevulde gegevens en probeer het opnieuw.",
+      "leadpax": "Selecteer een van de passagiers als hoofdpassagier.",
+      "leadpaxAge": "De hoofdpassagier moet minimaal 18 jaar  zijn op het moment van de boeking. Corrigeer de ingevulde geboortedatum of kies een nieuwe hoofdpassagier.",
+      "adult_age": "De leeftijd van volwassenen moet tussen {0} en 85 jaar zijn. Corrigeer de leeftijd.",
+      "infant_age": "Baby´s moeten jonger dan 2 jaar zijn op de datum van de terugreis. Corrigeer de ingevulde geboortedatum. U kunt ook teruggaan en de ingevulde leeftijden bij de zoekopdracht wijzigen. We kunnen u dan de meest recente beschikbaarheidsgegevens bieden.",
+      "child_age": "Kinderen moeten minimaal 2 jaar zijn en mogen niet ouder dan {0} jaar zijn. Corrigeer de leeftijd.",
+      "title": "De ingevulde aanhef voor {0} is ongeldig of onvolledig. Corrigeer de aanhef.",
+      "age_mismatch": "De ingevulde geboortedatum klopt niet met de leeftijden van de kinderen die u bij de zoekopdracht hebt ingevuld. Vul hun leeftijd op de dag van de terugreis in. Corrigeer de ingevulde geboortedata hierboven. U kunt ook teruggaan en de ingevulde leeftijden van de kinderen bij de zoekopdracht wijzigen. We kunnen u dan de meest recente beschikbaarheidsgegevens bieden.",
+      "title_required": "De aanhef is onvolledig. Corrigeer de aanhef.",
+      "firstname_required": "De ingevulde voornaam is ongeldig of onvolledig. Corrigeer de voornaam.",
+      "lastname_required": "De ingevulde achternaam is ongeldig of onvolledig. Corrigeer de achternaam.",
+      "email_required": "Het ingevulde e-mailadres is ongeldig of onvolledig. Corrigeer het e-mailadres.",
+      "confirm_email_required": "De ingevulde bevestiging van het e-mailadres is ongeldig of onvolledig. Corrigeer het e-mailadres.",
+      "street_address_required": "De ingevulde straat is ongeldig of onvolledig. Corrigeer de straat.",
+      "city_required": "De ingevulde stad is ongeldig of onvolledig. Corrigeer de stad.",
+      "day_required": "De ingevulde dag van de geboortedatum is ongeldig. Corrigeer de dag.",
+      "month_required": "De ingevulde maand van de geboortedatum is ongeldig. Corrigeer de maand.",
+      "year_required": "Het ingevulde jaar van de geboortedatum is ongeldig. Corrigeer het jaar.",
+      "contact_number_required": "Het ingevulde telefoonnummer is ongeldig of onvolledig. Corrigeer het telefoonnummer.",
+      "post_code_lookup": "Er is een probleem opgetreden bij het ophalen van het adres voor postcode {0}. Corrigeer de postcode."
+    },
+    "tooltip": {
+      "contactPhone": "We moeten mogelijk van tijd tot tijd contact met u opnemen over belangrijke wijzigingen voor uw boeking. Geef daarom uw telefoonnummer en e-mailadres op."
+    },
+    "fieldNames": {
+      "paxTitle": "Aanhef",
+      "paxName": "Voornaam",
+      "paxSurname": "Achternaam",
+      "contactEmail": "E-mailadres",
+      "confirmEmail": "Bevestig uw e-mailadres",
+      "paxPostCode": "Postcode",
+      "paxHouseNumber": "Adres",
+      "paxStreet": "Tweede regel van uw adres",
+      "paxCity": "Stad",
+      "paxCountry": "Land",
+      "paxDobDay": "dag van geboortedatum",
+      "paxDobMonth": "maand van geboortedatum",
+      "paxDobYear": "jaar van geboortedatum",
+      "contactPhone": "Telefoonnummer",
+      "fullName": "Naam",
+      "address": "Adres"
+    },
+    "ageCode": {
+      "ADULT": "volwassene",
+      "CHILD": "kind",
+      "FREECHILD": "kind",
+      "INFANT": "baby"
+    }
+  },
+  "confirmation": {
+    "moreInfo": "Meer informatie",
+    "reserveSeats": "reserveer uw stoelen online",
+    "selectSeats": "selecteer uw stoelnummers",
+    "completeAPI": "Vul uw API in",
+    "message": "Gefeliciteerd! Uw boeking is voltooid!",
+    "livechat": "Live chat",
+    "print": "Druk deze pagina af",
+    "hotelCode": "Hotelcode",
+    "holidayRefNumber": "Het reserveringsnummer van uw vakantie:",
+    "airlineReference": "Het reserveringsnummer van uw vlucht:",
+    "daysToGo": "Dagen te gaan!",
+    "tweet": "tweet",
+    "share": "deel",
+    "rooms": "Kamers en passagiers",
+    "flights": "Vluchten en data",
+    "included": "Wat is er inbegrepen?",
+    "nextStepsHeader": "Hoe nu verder?",
+    "nextStep1": {
+      "line1": "U ontvangt een bevestigingsmail met al uw boekingsgegevens. U kunt ook een exemplaar van deze pagina afdrukken voor uw administratie.",
+      "line2": "Binnen 5 dagen na uw boeking sturen wij u uw factuur.",
+      "line3": "<strong>Let op:</strong> als u met Thomas Cook Airlines vliegt, hoeft u geen afgedrukt exemplaar van uw tickets of reisdocumenten meer te laten zien bij het inchecken voor uw vlucht."
+    },
+    "nextStep2": {
+      "line1": "When you fly with Thomas Cook Airlines you can choose and",
+      "line2": "If you have selected \"Choose your seat\" at the time of booking, please "
+    },
+    "nextStep3": {
+      "line1": "Om in te checken moet u voor alle passagiers de Advance Passenger Information invullen. Als u dit zo snel mogelijk doet, kunt u dit van uw takenlijst schrappen."
+    },
+    "others": "Hebt u nog meer nodig?",
+    "travelMoney": "Reisgeld",
+    "extras": "Vakantiebenodigdheden",
+    "paymentDetails": "Uw contact- en betaalgegevens",
+    "contactDetails": "Contactgegevens",
+    "cardDetails": "Kaartgegevens",
+    "card": {
+      "type": "Type kaart",
+      "name": "Naam op de kaart",
+      "number": "Kaartnummer",
+      "expiry": "Vervaldatum"
+    },
+    "paymentSummary": "Samenvatting van de betaling",
+    "holidayTotal": "Totaalprijs",
+    "depositPaid": "Aanbetaling",
+    "cardFee": "Creditcardkosten",
+    "totalPaid": "Totaal betaald",
+    "remainingDeposit": "Nog te voldoen",
+    "remainingBalance": "Nog te voldoen",
+    "dueOn": "(te voldoen voor {0})",
+    "balance": "Totaal nog te voldoen"
+  },
+  "priceTicket": {
+    "error": "Fout!",
+    "warning": "Waarschuwing!",
+    "hotelCode": "Hotelcode:",
+    "adult": "Volwassene",
+    "adults": "Volwassenen",
+    "child": "Kind",
+    "children": "Kinderen",
+    "infant": "Baby",
+    "infants": "Baby´s",
+    "included": "Inbegrepen",
+    "flight": "Vlucht",
+    "with": "met",
+    "alsoIncluded": "Ook inbegrepen in de totaalprijs",
+    "totalPrice": "Totale prijs was",
+    "savings": "U bespaart vandaag",
+    "cardFee": "Creditcardkosten",
+    "from": "Van",
+    "pp": "pp",
+    "totalPriceFrom": "Totale prijs van",
+    "secureToday": "Reserveer vandaag voor",
+    "bookToday": "Boek vandaag voor",
+    "totalAmount": "Totaalprijs",
+    "maxAgeForChild": "Max. leeftijd voor kinderprijs",
+    "airportTransfer": "Vervoer van luchthaven naar accommodatie"
+  },
+  "cardTypes": {
+    "AX": "American Express",
+    "DI": "Diners Club",
+    "LA": "Laser",
+    "MA": "Maestro",
+    "MC": "Mastercard",
+    "SO": "Solo",
+    "VD": "Visa Debit",
+    "VE": "Visa Electron",
+    "MD": "Debit Mastercard",
+    "VI": "Visa"
+  },
+  "personName": "{0} {1} {2}",
+  "customise": {
+    "back": "Terug naar uw vakantie",
+    "title": "Vakantiebenodigdheden",
+    "subtitle": "Kies of verwijder de beschikbare extra´s hieronder",
+    "continue": "Ga door met de getoonde selecties",
+    "includedIn3for2": "Included as part of 3 for 2",
+    "plus5kg": "5kg included with 3 for 2",
+    "footer": {
+      "price": {
+        "title": "Uw vakantieprijs",
+        "content": "Uw vakantieprijs geldt nu voor uw hele reisgezelschap. De prijs kan echter afwijken van de prijs die u eerder zag vanwege systeemupdates - <a href='http://www.thomascook.com/pricing-terms-conditions/' target='_blank'>zie Hoe wordt mijn vakantieprijs berekend</a> voor meer informatie over de berekening van uw vakantieprijs"
+      },
+      "insurance": {
+        "title": "Reisverzekering",
+        "content": "Thomas Cook Retail Limited is an Appointed Representative of White Horse Insurance Ireland Limited which is authorised and regulated by the Central Bank of Ireland. Thomas Cook Travel Insurance is underwritten by White Horse Insurance Ireland Limited. For more information visit <a href='http://www.centralbank.ie/Pages/home.aspx' target='_blank'>Central Bank</a> of Ireland website."
+      }
+    },
+    "extras": {
+      "error": "Er is een fout opgetreden bij het indienen van uw aanvraag. Probeer het opnieuw of neem contact op met de Klantenservice als het probleem aanhoudt",
+      "viewInflightMenuLink": "View our in-flight menu",
+      "TCFD": {
+        "description": "Please dontate just £2 on top of your holiday cost and we will pass it on to the Thomas Cook Children's charity - which aims to improve the lives of children and the communities in which they live across the world.",
+        "checkBoxText": "Yes please, we would like to donate."
+      },
+      "CYS": {
+        "title": "Choose your seat",
+        "description": "<ul><li><span class=\"icon bulletpoint\"></span>Use our handy online seating plan to choose and reserve your seats.</li><li><span class=\"icon bulletpoint\"></span>It's available as soon as your booking has been confirmed.</li></ul>",
+        "checkBoxText": "Yes please, we would like to choose our own seats.",
+        "includedMessage": "Choose your seat is already included."
+      },
+      "IFM": {
+        "title": "<p>In-flight meals:</p>",
+        "description": "<ul><li><span class=\"icon bulletpoint\"></span>3 course hot meal with a tea or coffee</li><li><span class=\"icon bulletpoint\"></span>Meals included on your outbound and return flights</li><li><span class=\"icon bulletpoint\"></span>Meals can only be selected for the whole party</li></ul>",
+        "footerDescription": "<em>Created by James Martin. Only on Thomas Cook</em>",
+        "checkBoxText": "Yes please, we would like to add in-flight meals",
+        "includedMessage": "In-flight meals are included in your holiday price. Please select from the available options"
+      },
+      "BAG": {
+        "title": "Voeg extra ruimbagage toe",
+        "description": "<p>Momenteel kunt u <span class=\"baseWeight\"></span> kg per persoon en maximaal twee stuks bagage per persoon meenemen.</p><p>U kunt de toegestane hoeveelheid bagage per persoon verhogen voor uw hele reisgezelschap.</p>",
+        "checkBoxText": "Ja, ik wil graag extra bagage toevoegen"
+      },
+      "BAGGAGE": {
+        "title": "Add extra luggage allowance",
+        "description": "<p>Your current luggage allowance is <span class=\"baseWeight\"></span>kg each and up to two pieces of luggage each.</p><p>You can increase your total per person allowance for your whole party.</p>",
+        "checkBoxText": "Yes please, we would like to add an extra luggage allowance"
+      },
+      "OFFER": {
+        "description": "<p>Voeg extra bagage toe en kies uw stoel, en krijg uw maaltijden aan boord gratis!</p><ul><li><strong>Extra bagage:</strong> U mag standaard <span class=\"baseWeight\"></span> kg per persoon aan bagage meenemen. Als u deze optie kiest, mag u 5 kg extra per persoon meenemen.</li><li><strong>Kies uw stoel:</strong> Gebruik onze handige online plattegrond om uw stoelen te kiezen en te reserveren. De plattegrond is beschikbaar zodra uw boeking is bevestigd.</li><li><strong>Maaltijden aan boord:</strong> Geniet van een warme maaltijd van 3 gangen met thee of koffie op de heen- en terugvlucht. Als u een speciale maaltijd wilt, maakt u een keuze uit de maaltijden aan boord hieronder.</li></ul><em>U kunt 3 voor 2 vluchtextra´s alleen selecteren voor uw hele reisgezelschap</em>",
+        "checkBoxText": "Yes, please include all 3 extras and save me ",
+        "luggageLine": "+5 kg luggage"
+      },
+      "TRANSFER": {
+        "title": "Transfers between Destination Airport and your Hotel",
+        "description": "<p>For transfers between the destination airport and your hotel, please select from the range of available transfers below. Please note, transfers are operated by Transfers4u or another of our preferred suppliers. Your booking documents will confirm the supplier of your transfer.</p>",
+        "checkBoxText": "Yes please, transfers are required"
+      },
+      "INSURANCE": {
+        "gold": "Gold",
+        "silver": "Silver",
+        "title": "Reisverzekering",
+        "checkBoxText": "Ja, ik wil graag een reisverzekering toevoegen",
+        "description": "<p>Sluit nu een reisverzekering bij uw vakantie af, zodat u dit niet zelf hoeft te regelen. In de prijzen hieronder zijn alle verzekeringstoeslagen inbegrepen.</p><ul><li>Het noodnummer is 24 uur en 365 dagen bereikbaar</li><li>Boek vandaag voor onmiddellijke annuleringsdekking</li><li>Service voor medische screening beschikbaar</li></ul>",
+        "descriptionExtended": "Als u een vakantie boekt, moet u ervoor zorgen dat alle passagiers een reisverzekering afsluiten voor vertrek",
+        "types": {
+          "gold": {
+            "packageTitle": "Gold package",
+            "detailsList": "<ul><li><span class=\"glyphicon glyphicon-ok\"></span> Emergency Medical Expenses up to &pound;10,000,000</li><li><span class=\"glyphicon glyphicon-ok\"></span> Baggage and personal effets up to &pound;3,000</li><li><span class=\"glyphicon glyphicon-ok\"></span> Cancellation and curtailment up to &pound;10,000</li></ul>"
+          },
+          "silver": {
+            "packageTitle": "Silver package",
+            "detailsList": "<ul><li><span class=\"glyphicon glyphicon-ok\"></span> Emergency Medical Expenses up to &pound;5,000,000</li><li><span class=\"glyphicon glyphicon-ok\"></span> Baggage and personal effets up to &pound;1,500</li><li><span class=\"glyphicon glyphicon-ok\"></span> Cancellation and curtailment up to &pound;5,000</li></ul>"
+          }
+        },
+        "stageOne": {
+          "blurb": "Vul de leeftijden van de passagiers in. Dit moeten de leeftijden zijn op de datum dat u de verzekering afsluit (de datum van vandaag). De prijs van de verzekering hangt af van uw leeftijd, zodat de prijs hoger of lager kan zijn. U kunt een verzekering alleen online kopen voor het hele reisgezelschap en voor één reis. Bel <NL number> zodra u uw vakantie hebt gereserveerd. Baby´s (leeftijd &lt;2) zijn gratis verzekerd.",
+          "passengerDescription": "Geboortedatum van de {0} in de kamer"
+        },
+        "getQuote": "Vraag offerte aan",
+        "stageTwo": {
+          "agree": "Kruis dit vakje aan om te bevestigen dat u de <a href=\"#\">algemene voorwaarden</a> voor de aankoop van deze reisverzekeringspolis hebt gelezen en begrepen.",
+          "links": "<ul><li><a href=\"#\">Komt u in aanmerking voor onze verzekering?</a></li><li><a href=\"#\">Meer informatie over bestaande medische aandoeningen</a></li><li><a href=\"#\">Bekijk de beperkingen en de volledige tekst van de polis</a></li></ul>",
+          "terms": "TRAVEL INSURANCE: Thomas Cook Retail Limited is an Appointed Representative of White Horse Insurance Ireland Limited which is authorised and regulated by the Central Bank of Ireland. Thomas Cook Travel Insurance is underwritten by White Horse Insurance Ireland Limited. For more information visit <a href=\"#\">Central Bank of Ireland</a> website."
+        }
+      }
+    }
+  },
+  "myaccount": {
+    "alerts": {
+      "forgottenPassEmailFail": {
+        "title": "email not sent",
+        "content": "unfortunately a server error has prevented us from sending a reset email"
+      },
+      "userEmailNonexistant": {
+        "title": "Sorry, no accounts are associated with the email address you entered. Please try again.",
+        "content": "Your username or password was not recognised. If you have forgotten your password, you can reset it below."
+      },
+      "userConfirmationEmailSent": {
+        "title": "Email has been sent",
+        "content": "Please check your inbox for the confirm email. This could be on your junk folder."
+      },
+      "emailWishlist-success": {
+        "title": "Email has been sent",
+        "content": "If you have sent the email to yourself please check your inbox. This could be in your junk folder."
+      },
+      "userSignupError": {
+        "title": "Error on Sign Up",
+        "content": "There has been an error on the sign up process. Please try again later."
+      },
+      "userAlreadyExists": {
+        "title": "Error on Sign Up",
+        "content": "The user already exists."
+      },
+      "userSignupTerms": {
+        "title": "Terms And Conditions",
+        "content": "Please accept the Terms and Conditions to proceed."
+      },
+      "logInError401": {
+        "title": "Sorry, no accounts are associated with the email address you entered. Please try again.",
+        "content": "Your username or password was not recognised. If you have forgotten your password, you can reset it below."
+      },
+      "logInError430": {
+        "title": "Non-confirmed account",
+        "content": "Your account needs to be confirmed, this can be done via the email sent after your registration"
+      },
+      "activationSuccess": {
+        "title": "Email has been sent",
+        "content": "Please check your inbox for the confirmation email. This could be in your junk folder"
+      },
+      "activationError400": {
+        "title": "Email Not Sent",
+        "content": "Unfortunately a server error has prevented us from sending an activation email."
+      },
+      "activationError500": {
+        "title": "Account Doesn't Exist",
+        "content": "Please try signing up for a new account"
+      },
+      "unknownError": {
+        "title": "Sorry, an unexpected exception occurred",
+        "content": "Please refresh page and try again"
+      },
+      "sendPasswordReset": {
+        "title": "Please follow the instructions in the email we sent to you to reset your password",
+        "content": "You should receive an email to this account's registered address, if it exists. Follow the instructions to reset your password"
+      },
+      "ErrorSendPasswordReset": {
+        "title": "Sorry, no accounts are associated with the email address you entered. Please try again.",
+        "content": "Unfortunately an error has occurred that has prevented us from sending a reset email"
+      }
+    },
+    "sidebar": {
+      "myAccountMenu": "My Account menu",
+      "myHome": "My home",
+      "myWishlist": "My Wish List",
+      "myDetails": "My details",
+      "myPreferences": "My Preferences",
+      "mySupport": "Customer Support",
+      "logout": "Logout"
+    },
+    "loginWidget": {
+      "head": {
+        "login": "Login",
+        "signUp": "Sign Up",
+        "myAccount": "My Account",
+        "signOut": "Sign Out"
+      },
+      "saveMyWishlist": "Save My Wish List",
+      "emailMyWishlist": "Email My Wish List",
+      "myAccount": "My Account",
+      "email": "Email Address",
+      "emailDescription": "Enter your email address",
+      "emailInvalid": "Please enter a valid email address",
+      "IhaveAnAccount": "I have an account",
+      "IamNew": "I'm new here!",
+      "password": "Password",
+      "enterPassword": "Enter your password",
+      "fieldRequired": "This field is required.",
+      "enterPasswordError": "Password must contains one upper, one lower and one number.",
+      "enter8Character": "Please enter at least 8 characters.",
+      "login": "Let's Go",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordDescription": "Confirm your password",
+      "passwordDontMatch": "Password doesn't match.",
+      "notANumber": "Please enter a valid phone number",
+      "termsConditions": "I have read and agree to the Site Terms & Conditions",
+      "policy1": "By creating an account with us, you accept our",
+      "policy2": "Site Terms & Conditions",
+      "policy3": "and",
+      "policy4": "Privacy Policy",
+      "signUp": "Sign Up",
+      "emailForgottenPassword": "Enter the email address associated with your My Account, then click Send. We'll send you an email with the link to the page where you can easily reset your password.",
+      "forgottenPassword": "Forgotten password?",
+      "name": "Name",
+      "sendToMe": "Send a copy of the email to my address",
+      "enterMessage": "Enter the message for the recipient",
+      "enterName": "Enter the name of the recipient",
+      "enterEmail": "Enter the email the recipient",
+      "message": "Message",
+      "send": "Send",
+      "save": "Save"
+    },
+    "resetpassword": {
+      "problem": "There was a problem",
+      "tryAgain": "Please try again, and if the problem persists please contact Thomas Cook support.",
+      "success": "Success",
+      "passwordSuccess": "Your password has been successfully reset, you can now",
+      "saveWishlist": "Save My Wish List",
+      "login": "login",
+      "usingNewPassword": "using your new password.",
+      "myAccount": "My Account",
+      "passwordReset": "Password Reset",
+      "emailAddress": "Email Address",
+      "newPassword": "New Password",
+      "enterNewPassword": "Enter New Password",
+      "fieldRequired": "This field is required.",
+      "enterValidPassword": "Please enter a valid password.",
+      "atLeast8Characters": "Please enter at least 8 characters.",
+      "confirmNewPassword": "Confirm New Password",
+      "reenterNewPassword": "Re-Enter New Password",
+      "passwordDontMatch": "Password doesn't match.",
+      "reset": "Reset",
+      "signDifferentAccount": "Sign in a different account",
+      "registerAccount": "Register My Account",
+      "registerButton": "Register"
+    },
+    "index": {
+      "welcome1": "Welcome",
+      "welcome2": "My Account",
+      "blurb": "The online holiday hub designed to make choosing and booking your next Thomas Cook getaway effortless.",
+      "blurb2": "Keep track of all the hotels that caught your eye on our site through our wishlist feature and store your details on your My Details page to speed up your bookings in future.",
+      "dreamHoliday": "Your dream holiday is just a click away...",
+      "createWishlist": "Create My Wish List",
+      "updateDetails": "Update your details...",
+      "whatsInside1": "What's inside",
+      "whatsInside2": "My Account",
+      "options": {
+        "wishlist": "Your saved Wishlist",
+        "faster": "Faster bookings",
+        "upgrades": "Upgrades & Special offers",
+        "speedy": "Speedy Check-in",
+        "more": "Plus much more!"
+      }
+    },
+    "wishlist": {
+      "more": "More",
+      "less": "Less",
+      "back": "back",
+      "emailWishlist": "Email My Wish List",
+      "youhave": "You have",
+      "wishlistHolidays": "Wish List",
+      "wishlistHolidays2": "holiday",
+      "clearAll": "Clear all",
+      "addHolidays1": "Add holidays to",
+      "addHolidays2": "My Wish List",
+      "clickCompare": "Click compare to add a holiday",
+      "Nights": "Nights",
+      "nights": "nights",
+      "included": "Included",
+      "includedHoliday": "Included in your final holiday price",
+      "facilities": "Facilities",
+      "location": "Location",
+      "tripAdvisorRating": "TripAdvisor Traveller Rating",
+      "basedOn": "Based on",
+      "reviews": "reviews",
+      "thomasCookCustomer": "Thomas Cook Customer Rating",
+      "Rooms": "Rooms",
+      "adults": "adults",
+      "children": "children",
+      "boardBasi": "Board Basis",
+      "outboundFlight": "Outbound Flight",
+      "inboundFlight": "Inbound Flight",
+      "transfer": "Transfer",
+      "details": "Details",
+      "saveWishlist": "Add To Wish List",
+      "remove": "Remove",
+      "limitPopupTitle": "You have selected the maximum number of Wish List items.",
+      "limitPopupMessage": "Please remove a saved item first before adding any further holidays.",
+      "alerts": {
+        "noAvailability": {
+          "title": "This holiday is no longer available.",
+          "content": "Unfortunatley we do not have any available dates for this holiday.",
+          "name": "Remove from Wishlist"
+        },
+        "noDetails": {
+          "title": "Cannot load details for this holiday.",
+          "content": "Please try again later.",
+          "name": ""
+        },
+        "maxedComparisons": {
+          "title": "You have selected the maximum number of compare items.",
+          "content": "You can remove an item from compare by clicking grey compared button.",
+          "name": "OK"
+        },
+        "clearWishlist": {
+          "title": "Wishlist Removal",
+          "content": "Are you sure you want to remove all the saved wishlist items?",
+          "cancel": "Cancel",
+          "remove": "Remove"
+        }
+      }
+    },
+    "details": {
+      "myDetails": "My Details",
+      "description": "Complete your profile and speed through the booking process - you can of course update these at any time you wish. Share and exchange photos of your favourite hotels or even brag about the resort you’re headed to, by linking your profile to your Facebook, Twitter or Google + account.",
+      "myPersonalDetails": "My personal details",
+      "title": "Title",
+      "selectTitle": "Select title",
+      "fullName": "Full Name",
+      "firstName": "First Name(s)",
+      "surname": "Surname",
+      "security": "For security reasons, you can't change your name without contacting customer services with supporting evidence e.g. photocopy of marriage certificate or passport photo page",
+      "dateOfBirth": "Date of Birth",
+      "day": "Day",
+      "month": "Month",
+      "year": "Year",
+      "postcode": "Postcode",
+      "findAddress": "Find address",
+      "enterAddressManually": "Enter address manually",
+      "selected": "Select from list of returned addresses",
+      "streetAddress": "Street Address",
+      "firstAddress": "First line of address",
+      "secondAddress": "Second line of address",
+      "country": "Country",
+      "countryDescription": "United Kingdom",
+      "countryCode": "Country Code",
+      "phoneNumber": "Phone Number",
+      "yourPhoneNumber": "Your phone number",
+      "mobileNumber": "Mobile Number",
+      "myAccountSettings": "My Account settings",
+      "emailAddress": "Email Address",
+      "change": "Change",
+      "password": "Password",
+      "requiredField": "This field is required.",
+      "validPassword": "Please enter a valid password",
+      "atLeast8Characters": "Please enter at least 8 characters.",
+      "confirmPassword": "Confirm Password",
+      "passwordDontMatch": "Password doesn't match.",
+      "notANumber": "Please enter a valid phone number",
+      "cancelChanges": "Cancel changes",
+      "saveChanges": "Save changes",
+      "alerts": {
+        "success": {
+          "title": "Success!",
+          "content": "Your details have been saved."
+        },
+        "noData": {
+          "title": "Sorry, we were unable to load your details.",
+          "content": "Please refresh page and try again."
+        },
+        "loggedOut": {
+          "title": "Sorry, it appears you are not logged in",
+          "content": "Please log in and try again"
+        },
+        "unknownError": {
+          "title": "Sorry, an unexpected exception occurred",
+          "content": "Please refresh page and try again"
+        }
+      }
+    },
+    "preference": {
+      "myPreference": "My Preferences",
+      "switchHoliday": "Switch into holiday mode! Use the button switches below to receive your weekly dose of sunshine straight into your e-mail inbox from our Thomas Cook extras.",
+      "subcriptions": "My personal details",
+      "tuesdayInspiration": "Tuesday Inspiration",
+      "weekly": "Weekly",
+      "toggle": "toggle",
+      "latestPrices": "The latest prices in your favorite cities, top deals in dream destinations and personalised recommendations. Get inspired!",
+      "bookingAssistant": "Your Booking Assistant",
+      "duringBooking": "During your booking",
+      "planYourTrip": "Plan your trip with hand-picked deals and notifications from our travel experts. Let us make booking even easier.",
+      "justDeals": "Just Deals",
+      "everyFriday": "Every Friday we’ll send you our biggest and best discounts",
+      "lazySundays": "Lazy Sunday",
+      "lazySundaysText": "No need to rush - our Lazy Sunday edition includes subscriber-only deals, promotional offers and unpdates on our newest features.",
+      "cancelChanges": "Cancel changes",
+      "saveChanges": "Save changes"
+    },
+    "support": {
+      "customer": "Customer Support",
+      "blurb": "You should be able to find all the information you need on our website. However, if you need any extra support with your holiday choice or how to use our site then please contact our dedicated team online via live chat (here for you 9am - 6pm daily) or via email.",
+      "help": "Help when you need it...",
+      "holiday": "Your next holiday",
+      "manage": "Manage",
+      "livechat": "Live Chat",
+      "talk": "Talk to us",
+      "callUs": "Call Us",
+      "writetous": "Write to us",
+      "emailus": "Email us",
+      "storelocator": "Store locator",
+      "findus": "Find Us"
+    },
+    "widget": {
+      "state": {
+        "myAccount": "My Account",
+        "forgottenPassword": "Forgotten Password"
+      },
+      "forgottenPassEmailFail": {
+        "title": "Email not sent.",
+        "content": "Unfortunately a server error has prevented us from sending a reset email.",
+        "name": "Resend email"
+      },
+      "userEmailNonexistant": {
+        "title": "Sorry, no accounts are associated with the email address you entered. Please try again.",
+        "content": "Your username or password was not recognised. If you have forgotten your password, you can reset it below.",
+        "name": "Sign up"
+      },
+      "userConfirmationEmailSent": {
+        "title": "Email has been sent",
+        "content": "Please check your inbox for the confirm email. This could be on your junk folder.",
+        "name": "Sign up"
+      },
+      "userSignupError": {
+        "title": "Error on Sign Up",
+        "content": "There has been an error on the sign up process. Please try again later. ",
+        "name": "Sign up"
+      },
+      "userAlreadyExists": {
+        "title": "Error on Sign Up",
+        "content": "The user already exists.",
+        "name": "Sign up"
+      },
+      "userSignupTerms": {
+        "title": "Terms And Conditions ",
+        "content": "Please accept the Terms and Conditions to proceed. ",
+        "name": "Sign up"
+      },
+      "logInError-401": {
+        "title": "Sorry, no accounts are associated with the email address you entered. Please try again. ",
+        "content": "Your username or password was not recognised. If you have forgotten your password, you can reset it below. ",
+        "name": "Non-confirmed account"
+      },
+      "logInError-430": {
+        "title": "Non-confirmed account",
+        "content": "Your account needs to be confirmed, this can be done via the email sent after your registration.",
+        "name": "Resend email"
+      },
+      "logInError-500": {
+        "title": "Sorry, an unexpected exception occurred",
+        "content": "Please refresh page and try again "
+      },
+      "activationSuccess": {
+        "title": "Email has been sent",
+        "content": "Please check your inbox for the confirmation email. This could be in your junk folder.",
+        "name": "Email Not Sent "
+      },
+      "activationError-400": {
+        "title": "Email Not Sent.",
+        "content": "Unfortunately a server error has prevented us from sending an activation email.",
+        "name": "Resend email"
+      },
+      "activationError-500": {
+        "title": "Account Doesn't Exist.",
+        "content": "Please try signing up for a new account."
+      },
+      "unknownError": {
+        "title": "Sorry, an unexpected exception occurred",
+        "content": "Please refresh page and try again "
+      },
+      "sendPasswordReset": {
+        "title": "Please follow the instructions in the email we sent to you to reset your password.",
+        "content": "You should receive an email to this account's registered address, if it exists. Follow the instructions to reset your password."
+      },
+      "ErrorSendPasswordReset": {
+        "title": "Sorry, no accounts are associated with the email address you entered. Please try again.",
+        "content": "Unfortunatley an error has occured that has prevented us from sending a reset email"
+      }
+    },
+    "activation": {
+      "title": "Account Activated",
+      "header": "There was a problem activating your account"
+    },
+    "login": {
+      "header": "My Account",
+      "activationError": "There was a problem activating your account",
+      "success": "Success, your details have been saved.",
+      "emailAddress": "Email Address",
+      "passwordMust5Digits": "Password must be more than 5 digits.",
+      "forgottenPassword": "Forgotten password",
+      "signInDifferentAccount": "Sign in a different account",
+      "associatedEmail": "Enter the email address associated with your My Account, then click Send. We'll send you an email with the link to the page where you can easily reset your password.",
+      "passwordRequired": "Password is required.",
+      "forgottenPasswordQuestion": "Forgotten password?",
+      "send": "Send",
+      "tryAgain": "Please try again, and if the problem persists please contact Thomas Cook support.",
+      "placeHolder": {
+        "emailAddress": "Enter your email address",
+        "enterEmailAddress": "Enter your email address",
+        "enterPassword": "Enter Password"
+      }
+    },
+    "myBookings": "This is the mybookings view"
+  }
+}
